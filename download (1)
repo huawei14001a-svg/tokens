@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+env/
+scam.db
+scam.db-journal
+preview.png
+*.log
+.DS_Store

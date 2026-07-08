@@ -1,0 +1,12 @@
+# Токен бота от @BotFather (обязательно)
+BOT_TOKEN=123456789:AAExxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+# ID администраторов через запятую (для команды /give). Узнать свой id: @userinfobot
+ADMIN_IDS=111111111
+
+# Стартовый баланс новых пользователей в SCAM
+STARTING_BALANCE=1000
+
+# На Railway добавляется автоматически при подключении Postgres.
+# Локально можно не указывать — тогда используется файл SQLite (scam.db).
+# DATABASE_URL=postgresql://user:password@host:5432/dbname
